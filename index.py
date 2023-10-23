@@ -1,6 +1,5 @@
 def sum(a,b):
     return a+b
 
-
-
-print(sum(4,5)) # 9
+def sub(a,b):
+    return a-b
